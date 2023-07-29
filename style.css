@@ -19,6 +19,10 @@ ul{
     font-size: large;
     list-style-type: none;
 }
+a{
+   color: #178582;
+    text-decoration: none;
+}
 span{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif,sans-serif;
     font-size:xx-large;
